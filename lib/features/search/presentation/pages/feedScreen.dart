@@ -1,4 +1,4 @@
-import 'package:clean_bloc_wrap/messages.dart';
+import 'package:clean_bloc_wrap/features/chat/messages.dart';
 import 'package:clean_bloc_wrap/core/utils/colors.dart';
 import 'package:clean_bloc_wrap/features/search/presentation/widgets/post_card.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
